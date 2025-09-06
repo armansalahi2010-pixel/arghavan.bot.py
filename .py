@@ -11,9 +11,9 @@ from telegram.ext import (
 
 # =============================
 # تنظیمات
-# =============================
-TOKEN = "توکن_رباتت_اینجا"       # 🔹 جایگزین با توکن واقعی
-ADMIN_ID = 123456789              # 🔹 آیدی عددی مدیر
+# ================= # 🔹 جایگزین============
+TOKEN = "8323475984:AAFSKKmGyHucoYMapCD0QdLACAyKCtJzR2g"      
+ADMIN_ID = 6551138167              # 🔹 آیدی عددی مدیر
 
 # مراحل گفتگو
 NAME, PHONE, CATEGORY, PRODUCT, COLOR_SIZE, DESCRIPTION = range(6)
